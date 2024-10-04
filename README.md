@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YuvarajKate/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/YuvarajKate/Leetcode/tree/master/0217-contains-duplicate) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/YuvarajKate/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2058-concatenation-of-array](https://github.com/YuvarajKate/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/YuvarajKate/Leetcode/tree/master/0371-sum-of-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/YuvarajKate/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
