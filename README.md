@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/YuvarajKate/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/YuvarajKate/Leetcode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/YuvarajKate/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/YuvarajKate/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/YuvarajKate/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/YuvarajKate/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/YuvarajKate/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YuvarajKate/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/YuvarajKate/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/YuvarajKate/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YuvarajKate/Leetcode/tree/master/0079-word-search) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/YuvarajKate/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
