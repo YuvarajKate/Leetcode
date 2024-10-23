@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/YuvarajKate/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/YuvarajKate/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/YuvarajKate/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/YuvarajKate/Leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YuvarajKate/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YuvarajKate/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/YuvarajKate/Leetcode/tree/master/0198-house-robber) |
@@ -310,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/YuvarajKate/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/YuvarajKate/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/YuvarajKate/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/YuvarajKate/Leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
