@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/YuvarajKate/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/YuvarajKate/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/YuvarajKate/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/YuvarajKate/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/YuvarajKate/Leetcode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/YuvarajKate/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Linked List
@@ -142,12 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/YuvarajKate/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/YuvarajKate/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/YuvarajKate/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/YuvarajKate/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/YuvarajKate/Leetcode/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/YuvarajKate/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/YuvarajKate/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YuvarajKate/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/YuvarajKate/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/YuvarajKate/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/YuvarajKate/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/YuvarajKate/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/YuvarajKate/Leetcode/tree/master/0091-decode-ways) |
