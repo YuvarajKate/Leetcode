@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/YuvarajKate/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/YuvarajKate/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/YuvarajKate/Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/YuvarajKate/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/YuvarajKate/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0792-binary-search](https://github.com/YuvarajKate/Leetcode/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/YuvarajKate/Leetcode/tree/master/1036-rotting-oranges) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/YuvarajKate/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/YuvarajKate/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/YuvarajKate/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/YuvarajKate/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YuvarajKate/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/YuvarajKate/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YuvarajKate/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/YuvarajKate/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/YuvarajKate/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/YuvarajKate/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/YuvarajKate/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/YuvarajKate/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/YuvarajKate/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YuvarajKate/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/YuvarajKate/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -337,8 +341,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YuvarajKate/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/YuvarajKate/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YuvarajKate/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YuvarajKate/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YuvarajKate/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YuvarajKate/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
