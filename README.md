@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/YuvarajKate/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/YuvarajKate/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/YuvarajKate/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/YuvarajKate/Leetcode/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/YuvarajKate/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/YuvarajKate/Leetcode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/YuvarajKate/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/YuvarajKate/Leetcode/tree/master/0684-redundant-connection) |
 | [1036-rotting-oranges](https://github.com/YuvarajKate/Leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/YuvarajKate/Leetcode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/YuvarajKate/Leetcode/tree/master/0684-redundant-connection) |
 ## Matrix
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/YuvarajKate/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/YuvarajKate/Leetcode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/YuvarajKate/Leetcode/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
