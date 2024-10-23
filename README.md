@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/YuvarajKate/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/YuvarajKate/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/YuvarajKate/Leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/YuvarajKate/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/YuvarajKate/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/YuvarajKate/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/YuvarajKate/Leetcode/tree/master/0051-n-queens) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YuvarajKate/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/YuvarajKate/Leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/YuvarajKate/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/YuvarajKate/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YuvarajKate/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/YuvarajKate/Leetcode/tree/master/0062-unique-paths) |
@@ -304,5 +306,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/YuvarajKate/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/YuvarajKate/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
