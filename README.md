@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/YuvarajKate/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/YuvarajKate/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/YuvarajKate/Leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/YuvarajKate/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YuvarajKate/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YuvarajKate/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YuvarajKate/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/YuvarajKate/Leetcode/tree/master/0078-subsets) |
 | [0371-sum-of-two-integers](https://github.com/YuvarajKate/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
@@ -257,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/YuvarajKate/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/YuvarajKate/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/YuvarajKate/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YuvarajKate/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
