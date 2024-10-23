@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/YuvarajKate/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/YuvarajKate/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/YuvarajKate/Leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/YuvarajKate/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/YuvarajKate/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YuvarajKate/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YuvarajKate/Leetcode/tree/master/0162-find-peak-element) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/YuvarajKate/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/YuvarajKate/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/YuvarajKate/Leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/YuvarajKate/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/YuvarajKate/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/YuvarajKate/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/YuvarajKate/Leetcode/tree/master/0217-contains-duplicate) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/YuvarajKate/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YuvarajKate/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvarajKate/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/YuvarajKate/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/YuvarajKate/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/YuvarajKate/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/YuvarajKate/Leetcode/tree/master/0213-house-robber-ii) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/YuvarajKate/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/YuvarajKate/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/YuvarajKate/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/YuvarajKate/Leetcode/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YuvarajKate/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/YuvarajKate/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Stack
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/YuvarajKate/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/YuvarajKate/Leetcode/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -401,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/YuvarajKate/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/YuvarajKate/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
