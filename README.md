@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/YuvarajKate/Leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/YuvarajKate/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/YuvarajKate/Leetcode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/YuvarajKate/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Linked List
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/YuvarajKate/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/YuvarajKate/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/YuvarajKate/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/YuvarajKate/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/YuvarajKate/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/YuvarajKate/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/YuvarajKate/Leetcode/tree/master/0091-decode-ways) |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/YuvarajKate/Leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/YuvarajKate/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
