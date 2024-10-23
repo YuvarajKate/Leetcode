@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YuvarajKate/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YuvarajKate/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/YuvarajKate/Leetcode/tree/master/0127-word-ladder) |
+| [0141-linked-list-cycle](https://github.com/YuvarajKate/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/YuvarajKate/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/YuvarajKate/Leetcode/tree/master/0217-contains-duplicate) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/YuvarajKate/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YuvarajKate/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YuvarajKate/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/YuvarajKate/Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/YuvarajKate/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YuvarajKate/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YuvarajKate/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YuvarajKate/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0141-linked-list-cycle](https://github.com/YuvarajKate/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/YuvarajKate/Leetcode/tree/master/0146-lru-cache) |
 ## Design
 |  |
