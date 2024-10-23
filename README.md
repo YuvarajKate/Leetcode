@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/YuvarajKate/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/YuvarajKate/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/YuvarajKate/Leetcode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/YuvarajKate/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/YuvarajKate/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/YuvarajKate/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/YuvarajKate/Leetcode/tree/master/0046-permutations) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YuvarajKate/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YuvarajKate/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/YuvarajKate/Leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/YuvarajKate/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/YuvarajKate/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YuvarajKate/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/YuvarajKate/Leetcode/tree/master/0127-word-ladder) |
