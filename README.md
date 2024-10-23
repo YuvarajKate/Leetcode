@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/YuvarajKate/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/YuvarajKate/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/YuvarajKate/Leetcode/tree/master/0322-coin-change) |
+| [1250-longest-common-subsequence](https://github.com/YuvarajKate/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/YuvarajKate/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/YuvarajKate/Leetcode/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YuvarajKate/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1250-longest-common-subsequence](https://github.com/YuvarajKate/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
