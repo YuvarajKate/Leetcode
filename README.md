@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YuvarajKate/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YuvarajKate/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YuvarajKate/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/YuvarajKate/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/YuvarajKate/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/YuvarajKate/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/YuvarajKate/Leetcode/tree/master/0049-group-anagrams) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/YuvarajKate/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YuvarajKate/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YuvarajKate/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/YuvarajKate/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/YuvarajKate/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YuvarajKate/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/YuvarajKate/Leetcode/tree/master/0127-word-ladder) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/YuvarajKate/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/YuvarajKate/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/YuvarajKate/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/YuvarajKate/Leetcode/tree/master/0200-number-of-islands) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YuvarajKate/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/YuvarajKate/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/YuvarajKate/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/YuvarajKate/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/YuvarajKate/Leetcode/tree/master/0051-n-queens) |
