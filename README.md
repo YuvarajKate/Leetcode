@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/YuvarajKate/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/YuvarajKate/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/YuvarajKate/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1036-rotting-oranges](https://github.com/YuvarajKate/Leetcode/tree/master/1036-rotting-oranges) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/YuvarajKate/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2058-concatenation-of-array](https://github.com/YuvarajKate/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/YuvarajKate/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/YuvarajKate/Leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/YuvarajKate/Leetcode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/YuvarajKate/Leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -186,4 +188,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/YuvarajKate/Leetcode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/YuvarajKate/Leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
