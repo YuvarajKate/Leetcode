@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YuvarajKate/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/YuvarajKate/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/YuvarajKate/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0647-palindromic-substrings](https://github.com/YuvarajKate/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/YuvarajKate/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/YuvarajKate/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/YuvarajKate/Leetcode/tree/master/0322-coin-change) |
+| [0647-palindromic-substrings](https://github.com/YuvarajKate/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/YuvarajKate/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Prefix Sum
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/YuvarajKate/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/YuvarajKate/Leetcode/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YuvarajKate/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/YuvarajKate/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/YuvarajKate/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
