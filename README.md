@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/YuvarajKate/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/YuvarajKate/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/YuvarajKate/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/YuvarajKate/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/YuvarajKate/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YuvarajKate/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/YuvarajKate/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YuvarajKate/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YuvarajKate/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/YuvarajKate/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/YuvarajKate/Leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/YuvarajKate/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/YuvarajKate/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/YuvarajKate/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/YuvarajKate/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/YuvarajKate/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/YuvarajKate/Leetcode/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/YuvarajKate/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YuvarajKate/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/YuvarajKate/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/YuvarajKate/Leetcode/tree/master/1250-longest-common-subsequence) |
