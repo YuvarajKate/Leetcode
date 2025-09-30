@@ -1,11 +1,11 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         prefix = ''
+        strs.sort()
 
         for i in range(len(strs[0])):
-            for s in strs:
-                if i == len(s) or s[i] != strs[0][i]:
-                    return prefix
-            prefix += strs[0][i]
+            if strs[0][i] != strs[-1][i]:
+                return prefix
+            else:
+                prefix += strs[0][i]
         return prefix
-        
