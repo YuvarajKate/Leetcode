@@ -1,6 +1,6 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
-        prefix = ''
+        prefix = ""
         strs.sort()
 
         for i in range(len(strs[0])):
