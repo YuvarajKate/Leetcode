@@ -448,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YuvarajKate/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/YuvarajKate/Leetcode/tree/master/0139-word-break) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/YuvarajKate/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
