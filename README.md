@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/YuvarajKate/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/YuvarajKate/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/YuvarajKate/Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/YuvarajKate/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/YuvarajKate/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/YuvarajKate/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YuvarajKate/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/YuvarajKate/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/YuvarajKate/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/YuvarajKate/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/YuvarajKate/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/YuvarajKate/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Simulation
