@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/YuvarajKate/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0792-binary-search](https://github.com/YuvarajKate/Leetcode/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/YuvarajKate/Leetcode/tree/master/1036-rotting-oranges) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/YuvarajKate/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/YuvarajKate/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2058-concatenation-of-array](https://github.com/YuvarajKate/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
