@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/YuvarajKate/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/YuvarajKate/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/YuvarajKate/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0759-set-intersection-size-at-least-two](https://github.com/YuvarajKate/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/YuvarajKate/Leetcode/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/YuvarajKate/Leetcode/tree/master/1036-rotting-oranges) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/YuvarajKate/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YuvarajKate/Leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/YuvarajKate/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/YuvarajKate/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0759-set-intersection-size-at-least-two](https://github.com/YuvarajKate/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/YuvarajKate/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YuvarajKate/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Two Pointers
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvarajKate/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/YuvarajKate/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/YuvarajKate/Leetcode/tree/master/0135-candy) |
+| [0759-set-intersection-size-at-least-two](https://github.com/YuvarajKate/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 ## Monotonic Stack
 |  |
 | ------- |
