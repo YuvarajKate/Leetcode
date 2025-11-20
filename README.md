@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/YuvarajKate/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/YuvarajKate/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/YuvarajKate/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0496-next-greater-element-i](https://github.com/YuvarajKate/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/YuvarajKate/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/YuvarajKate/Leetcode/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/YuvarajKate/Leetcode/tree/master/1036-rotting-oranges) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YuvarajKate/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/YuvarajKate/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YuvarajKate/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/YuvarajKate/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/YuvarajKate/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YuvarajKate/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sorting
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/YuvarajKate/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/YuvarajKate/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/YuvarajKate/Leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/YuvarajKate/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YuvarajKate/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/YuvarajKate/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
