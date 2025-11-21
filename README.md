@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/YuvarajKate/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/YuvarajKate/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/YuvarajKate/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/YuvarajKate/Leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/YuvarajKate/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/YuvarajKate/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/YuvarajKate/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/YuvarajKate/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/YuvarajKate/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/YuvarajKate/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/YuvarajKate/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Simulation
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/YuvarajKate/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/YuvarajKate/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/YuvarajKate/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/YuvarajKate/Leetcode/tree/master/0231-power-of-two) |
 ## Graph
 |  |
 | ------- |
