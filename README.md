@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/YuvarajKate/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/YuvarajKate/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/YuvarajKate/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/YuvarajKate/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/YuvarajKate/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YuvarajKate/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/YuvarajKate/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/YuvarajKate/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/YuvarajKate/Leetcode/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/YuvarajKate/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/YuvarajKate/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/YuvarajKate/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YuvarajKate/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/YuvarajKate/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
