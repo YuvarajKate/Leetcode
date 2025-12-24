@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/YuvarajKate/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2058-concatenation-of-array](https://github.com/YuvarajKate/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YuvarajKate/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3074-apple-redistribution-into-boxes](https://github.com/YuvarajKate/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3583-count-special-triplets](https://github.com/YuvarajKate/Leetcode/tree/master/3583-count-special-triplets) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/YuvarajKate/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/YuvarajKate/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YuvarajKate/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3074-apple-redistribution-into-boxes](https://github.com/YuvarajKate/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/YuvarajKate/Leetcode/tree/master/0135-candy) |
 | [0759-set-intersection-size-at-least-two](https://github.com/YuvarajKate/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YuvarajKate/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [3074-apple-redistribution-into-boxes](https://github.com/YuvarajKate/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Monotonic Stack
 |  |
 | ------- |
